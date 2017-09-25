@@ -1,0 +1,17 @@
+{
+  "name": "m-random",
+  "version": "1.0.9",
+  "description": " a random lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "string",
+    "js"
+  ],
+  "author": "jhonyoung",
+  "license": "ISC"
+}
