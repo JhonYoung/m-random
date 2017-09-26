@@ -1,0 +1,8 @@
+node_modules/
+.svn/
+.npm/
+.idea/
+.meteor/local/
+.meteor/versions
+packages/*/.npm/
+started.bat
