@@ -8,7 +8,7 @@
 1. ```MRandom.Number.float(start, end)```
 params: start: Number, end: Number
 返回一个start 到 end 的浮点数
-2. ```MRandom.Number.floatArr(start, end, length)```
+2. ```MRandom.Number.floatArr(start, end)```
 params: start: Number, end: Number, length: Number
 返回length 个start 到 end 的浮点数组成的数组
 3. ```MRandom.Number.floatArrUniq(start, end, length)```
